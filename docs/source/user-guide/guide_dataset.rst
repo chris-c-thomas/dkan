@@ -149,5 +149,5 @@ Remove the datasets with the remove command.
       drush en sample_content -y
       drush dkan:sample-content:create
       drush cron
-      drush dkan:sample:content:remove
+      drush dkan:sample-content:remove
 
